@@ -774,6 +774,13 @@ npm: package manager
 npm: possibly marvellous
 npm's personal messenger
 npm's pretty magical
+NPM Package Management
+NPM Code Sharing
+NPM Dependency Management
+NPM Code Distribution
+NPM Module Installation
+NPM Scripts Runner
+NPM Package Discovery
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
